@@ -1,0 +1,9 @@
+https://www.kaggle.com/datasets/msambare/fer2013
+
+This  is where u can download  FER 2013 Dataset from Kaggle
+
+1 create a folder named Data
+
+2 in the data folder create 2 folders test and train
+
+3 test  and train folders  must contain the angry , disgust , fear , happy , neutral , sad , surprise folders seperatly which contains corresponding images.
