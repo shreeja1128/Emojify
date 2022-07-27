@@ -16,36 +16,14 @@ Then we are mapping those emotions we detected with the corresponding emoji.
   
   
   ![Screenshot (265)](https://user-images.githubusercontent.com/83698103/181244876-acd5db5d-8a9e-43b9-81f6-9458feb2c276.png)
+  
 
-
-LIBRARIES USED
-
-Tensorflow
-
-Numpy
-
-Pillow
-
-scipy
-
-OpenCvPython
-
-Tkinter
-
-
-Steps:
-
-1. Data Processing 
-
-2. Image Augmentation
-
-3.Feature Extraction
-
-4.Training
-
-5.Validation
+Result
 
 ![result11](https://user-images.githubusercontent.com/83698103/181291271-d58a5f2b-bda8-4c44-82e8-2551ad4b3784.jpeg)
 
 
+Execution Video
+
+https://user-images.githubusercontent.com/83698103/181296256-77f90553-ab95-45dc-b859-abdd2b52a560.mp4
 
